@@ -11,7 +11,7 @@ click [Introduction to Programming exam 18.07.](https://programming-25.mooc.fi/a
 ## The Exam Questions
 
 
-Exercise 1: exercise1.py
+### Exercise 1: exercise1.py
 
 1. Getting started
     <ol style="list-style-type: lower-roman; padding-left: 20px;">
@@ -21,7 +21,7 @@ Exercise 1: exercise1.py
 Complete this in exercise template exercise1.py
 Write a program, which asks user to type in strings one by one. When the user inputs an empty string, program outputs number of strings typed in, the length of the longest string and the most common character.
 
-Exercise 2: exersice2.py
+### Exercise 2: exercise2.py
 
 2. Find Allowed
     <ol style="list-style-type: lower-roman; padding-left: 20px;">
@@ -40,13 +40,14 @@ The second argument is an integer, which is the minimum number of the searched l
 The program returns a new list, which contains all the words that have at least the requested number of desired letters.
 The program does not modify the original list.
     
-Exercise 3: exercise3.py
 
-3.read_points()
-    <ol style="list-style-type: lower-roman; padding-left: 20px;">
-        <li>Programming exercise: read_points</li>
-    </ol>
+### Exercise 3: exercise3.py
 
+**read_points()**
+
+<ol style="list-style-type: lower-roman; padding-left: 20px;">
+    <li>Programming exercise: read_points</li>
+</ol>
 
 
 Create a function called read_points() that reads the statistics of ice hockey teams from the file statistics.txt.
