@@ -44,11 +44,7 @@ The program does not modify the original list.
 ### Exercise 3: exercise3.py
 
 **read_points()**
-
-<ol style="list-style-type: lower-roman; padding-left: 20px;">
-    <li>Programming exercise: read_points</li>
-</ol>
-
+<ol style="list-style-type: lower-roman; padding-left: 20px;"><li>Programming exercise: read_points</li></ol>
 
 Create a function called read_points() that reads the statistics of ice hockey teams from the file statistics.txt.
 
