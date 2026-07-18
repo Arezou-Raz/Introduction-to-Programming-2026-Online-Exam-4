@@ -48,7 +48,6 @@ Exercise 3: exercise3.py
     </ol>
 
 
-Complete this in exercise template exercise3.py
 
 Create a function called read_points() that reads the statistics of ice hockey teams from the file statistics.txt.
 
